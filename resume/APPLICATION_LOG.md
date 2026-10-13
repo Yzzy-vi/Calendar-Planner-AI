@@ -20,11 +20,18 @@ against the source file before sending.
 | Aqualink Maritime | Google Form on its cadetship page; needs CV, transcript and certified GWA | Requires grades of 80 minor / 85 major, height 5'5", under 25. Licence not verified. |
 | Marlow Navigation | Online form and open cadet exams in the Philippines | Pay and fee terms not stated online. |
 | Magsaysay Maritime | magsaysaycareers.com portal | Official application email not confirmed. |
+| CSL Group, a Canadian shipowner, through Jebsen PTC Maritime | Jebsen PTC online portal or office visit in Makati, Cebu or Iloilo; contact form subject "Sea-based application" | CSL sponsors Filipino cadets for the 12-month sea phase on its European fleet. Jebsen PTC licence DMW-167-SB-09162024-PA-MLC; states no fees. No public email. |
 | PNTC training office | In person | Ask which companies place PNTC cadets now. |
 
 ## Not suitable
 - Anglo-Eastern Philippines Ship Cadet Programme: age limit under 23.
 - NSA, Teekay, NYK-TDG, MOL Magsaysay, K Line: scholarships for incoming students, not graduates.
+
+## Canada and LMIA
+- Only a Canadian employer can apply for an LMIA, and it must pay the fee itself.
+- Cadets on foreign-owned ships in international trade need no Canadian work permit, so no LMIA.
+- A 2023 Canada and Philippines arrangement lets certificated Filipino seafarers crew Canadian-flagged ships on work permits. No cadet stream was found.
+- Treat anyone charging to "process an LMIA" as a scam.
 
 ## Screening rules
 - Positive salary, stipend or allowance required. Never put it on the résumé.
