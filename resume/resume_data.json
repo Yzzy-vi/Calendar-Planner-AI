@@ -1,35 +1,36 @@
 {
   "name": "JOSEPH MMANUEL CASTILLO",
   "headline": "Deck Cadet  |  Deck Trainee  |  Apprentice Mate",
-  "email": "filemy77@gmail.com",
+  "email": "filesmy77@gmail.com",
   "contact_fields": {
-    "phone": {"label": "Phone", "placeholder": "[Phone number incl. country code]"},
-    "location": {"label": "Location", "placeholder": "[City, Country]"}
+    "phone": {"label": "Phone", "placeholder": "[Phone number incl. country code]", "value": "+63 962 081 9151"},
+    "location": {"label": "Location", "placeholder": "[City, Country]", "value": "General Trias, Cavite, Philippines"}
   },
-  "profile": "Completed the academic requirements of the Bachelor of Science in Marine Transportation (BSMT) program at PNTC. Seeking a first shipboard placement to complete the required 12 months of approved onboard training. First-time cadet available for international Deck Cadet, Deck Trainee or Apprentice Mate positions that offer paid onboard training.",
+  "profile": "Completed the academic requirements of the Bachelor of Science in Marine Transportation (BSMT) program at PNTC Colleges, Dasmariñas City, Cavite. Seeking a first shipboard placement to complete the required 12 months of approved onboard training. First-time cadet available for international Deck Cadet, Deck Trainee or Apprentice Mate positions that offer paid onboard training.",
   "education": {
-    "institution": "PNTC",
+    "institution": "PNTC Colleges, Dasmariñas City, Cavite, Philippines",
     "degree": "Bachelor of Science in Marine Transportation (BSMT)",
     "completion_label": "Academic studies completed",
     "completion_placeholder": "[Month Year]",
+    "completion_value": "17 September 2026",
     "notes": [
       "Academic coursework completed.",
       "Remaining program requirement: 12 months of approved onboard training."
     ]
   },
   "training_documents": [
-    "Training certificates: awaiting release. Certificate details will be added upon issuance.",
-    "Seaman's Book (SIRB): application to follow once the required certificates are available."
+    "Training certificates awaiting release: Seafarer with Designated Security Duties (SDSD) and Personal Safety and Social Responsibilities (PSSR). Certificate details will be added upon issuance.",
+    "Seaman's Book (SIRB): application to follow once the required certificates are available.",
+    "Passport: applied for; awaiting release."
   ],
   "sea_service": [
     "No prior sea service. First-time cadet seeking an initial shipboard placement for the 12-month approved onboard training period."
   ],
   "personal_fields": [
-    {"key": "nationality", "label": "Nationality", "placeholder": "[Nationality]"},
-    {"key": "date_of_birth", "label": "Date of birth", "placeholder": "[DD Month YYYY]"},
-    {"key": "passport", "label": "Passport", "placeholder": "[Held / Not yet held; validity]"},
-    {"key": "languages", "label": "Languages", "placeholder": "[Languages spoken]"},
-    {"key": "availability", "label": "Available from", "placeholder": "[Date available to join]"}
+    {"key": "nationality", "label": "Nationality", "placeholder": "[Nationality]", "value": "Filipino"},
+    {"key": "date_of_birth", "label": "Date of birth", "placeholder": "[DD Month YYYY]", "value": "30 January 2003"},
+    {"key": "languages", "label": "Languages", "placeholder": "[Languages spoken]", "value": "English, Tagalog"},
+    {"key": "availability", "label": "Available from", "placeholder": "[Date available to join]", "value": "Immediately, as soon as a placement is offered"}
   ],
   "footer": "Supporting documents will be provided as they are released."
 }

@@ -17,6 +17,8 @@ const GREY = "555555";
 
 const run = (text, opts = {}) => new TextRun({ text, font: FONT, size: 21, ...opts });
 const placeholder = (text) => run(text, { highlight: "yellow", color: "7F6000" });
+// Supplied value renders as normal text; a missing one as a highlighted placeholder.
+const valueOr = (value, ph) => (value ? run(value) : placeholder(ph));
 
 const heading = (text) => new Paragraph({
   spacing: { before: 220, after: 80 },
@@ -58,8 +60,8 @@ children.push(new Paragraph({
   border: { bottom: { style: BorderStyle.SINGLE, size: 12, color: NAVY, space: 6 } },
   children: [
     run("Email: "), run(data.email),
-    run("   |   "), run(data.contact_fields.phone.label + ": "), placeholder(data.contact_fields.phone.placeholder),
-    run("   |   "), run(data.contact_fields.location.label + ": "), placeholder(data.contact_fields.location.placeholder),
+    run("   |   "), run(data.contact_fields.phone.label + ": "), valueOr(data.contact_fields.phone.value, data.contact_fields.phone.placeholder),
+    run("   |   "), run(data.contact_fields.location.label + ": "), valueOr(data.contact_fields.location.value, data.contact_fields.location.placeholder),
   ],
 }));
 
@@ -77,7 +79,7 @@ children.push(new Paragraph({
     run(ed.institution, { bold: true }),
     run("\t"),
     run(ed.completion_label + ": ", { color: GREY }),
-    placeholder(ed.completion_placeholder),
+    valueOr(ed.completion_value, ed.completion_placeholder),
   ],
 }));
 children.push(body([run(ed.degree, { italics: true })]));
@@ -93,7 +95,7 @@ data.sea_service.forEach((t) => children.push(bullet([run(t)])));
 
 // Personal details
 children.push(heading("Personal Details"));
-data.personal_fields.forEach((f) => children.push(labelValue(f.label, [placeholder(f.placeholder)])));
+data.personal_fields.forEach((f) => children.push(labelValue(f.label, [valueOr(f.value, f.placeholder)])));
 
 // Footer line
 children.push(new Paragraph({

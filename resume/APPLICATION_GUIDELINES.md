@@ -10,9 +10,9 @@ positions that offer **paid onboard training**.
 ## Résumé rules
 - Before sending applications, use the professional one-page résumé in this
   folder. Two formats are maintained: PDF and editable Word (`.docx`).
-- Contact email on the résumé: `filemy77@gmail.com`.
+- Contact email on the résumé: `filesmy77@gmail.com` (confirmed by Joseph).
 - The résumé must include:
-  - PNTC — Bachelor of Science in Marine Transportation (BSMT).
+  - PNTC Colleges — Bachelor of Science in Marine Transportation (BSMT).
   - Academic studies completed; seeking the required 12 months of approved
     onboard training.
   - First-time cadet seeking an initial shipboard placement.
@@ -23,39 +23,39 @@ positions that offer **paid onboard training**.
 - **Never invent** skills, experience, grades, dates or credentials.
 - **No salary demands on the résumé.** Joseph's requirement for a positive
   salary, stipend or allowance is used only when screening opportunities.
-- Attach **only the completed résumé** to applications. The fillable draft is
-  never attached. Update the résumé as Joseph's documents become available.
+- Attach **only the completed résumé** (`Joseph_Mmanuel_Castillo_Resume.pdf`)
+  to applications. Never attach a draft with unfilled fields. Update the
+  résumé as Joseph's documents become available.
 
 ## Files in this folder
 | File | Purpose |
 |---|---|
 | `resume_data.json` | Single source of truth for the résumé content. Edit this, then rebuild. |
-| `build_docx.js` | Builds the editable Word résumé (`node resume/build_docx.js`). Placeholders are highlighted yellow. |
-| `build_fillable_pdf.py` | Builds the fillable one-page PDF draft (`python3 resume/build_fillable_pdf.py`). Missing details are editable form fields. |
-| `Joseph_Mmanuel_Castillo_Resume.docx` | Editable Word résumé (draft until placeholders are replaced). |
-| `Joseph_Mmanuel_Castillo_Resume_Fillable_Draft.pdf` | Fillable PDF draft. **Do not attach to applications.** |
+| `build_docx.js` | Builds the editable Word résumé (`node resume/build_docx.js`). Any detail left blank in the data file is rendered as a yellow placeholder. |
+| `build_fillable_pdf.py` | Builds a one-page fillable PDF draft (`python3 resume/build_fillable_pdf.py`). Blank details become editable form fields. Only needed while details are missing; its output is never attached. |
+| `Joseph_Mmanuel_Castillo_Resume.docx` | Editable Word résumé (complete). |
+| `Joseph_Mmanuel_Castillo_Resume.pdf` | Final PDF résumé exported from the Word file. **This is the file to attach.** |
 
-Once the details below are supplied, replace the placeholders in
-`resume_data.json`, rebuild both files, and export the final PDF from the Word
-document (or convert it with LibreOffice) under the name
-`Joseph_Mmanuel_Castillo_Resume.pdf`. That final PDF is the only version to
-attach.
+## Rebuilding after a change
+```bash
+node resume/build_docx.js
+soffice --headless --convert-to pdf --outdir resume resume/Joseph_Mmanuel_Castillo_Resume.docx
+```
 
-## Details still needed from Joseph
-Ask for all of these together, in one message:
+## Details on file (supplied by Joseph, 13 October 2026)
+- Phone: +63 962 081 9151
+- Location: General Trias, Cavite, Philippines
+- School: PNTC Colleges, Dasmariñas City, Cavite, Philippines
+- Academic studies completed: 17 September 2026
+- Nationality: Filipino; date of birth: 30 January 2003
+- Languages: English, Tagalog
+- Availability: immediately, as soon as a placement is offered
 
-1. **Email confirmation.** The instructions say `filemy77@gmail.com`, but the
-   account used to give the instructions is `filesmy77@gmail.com`. Confirm
-   which address recruiters should use.
-2. **Phone number**, including country code.
-3. **Location** (city and country) for the résumé header.
-4. **Academic completion date** (month and year) for the BSMT program.
-5. **Full official name of the school** and campus to print instead of the
-   abbreviation "PNTC", if desired.
-6. **Nationality** and **date of birth** (commonly requested on seafarer CVs;
-   can be left off if preferred).
-7. **Passport status**: held or not, and expiry date if held.
-8. **Training certificates**: which certificates are pending release, and any
-   already held, so they can be listed once issued.
-9. **Languages** spoken.
-10. **Date available** to join a vessel.
+## Updates still pending (edit the résumé when each arrives)
+1. **SDSD certificate** (Seafarer with Designated Security Duties): add
+   certificate number, issuing centre and date once released.
+2. **PSSR certificate** (Personal Safety and Social Responsibilities): same.
+3. **Passport**: add number and expiry date once released.
+4. **Seaman's Book (SIRB)**: application to be filed once the certificates
+   are released; add the number once issued.
+5. Any further training certificates Joseph obtains.
