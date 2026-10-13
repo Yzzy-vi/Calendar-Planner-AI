@@ -12,6 +12,12 @@ against the source file before sending.
 |---|---|---|---|---|
 | 2026-10-13 | TORM (Danish tanker owner) | recruitment.denmark@torm.com | torm.com careers, "Programs at Sea" page | Page says cadets are paid during sea training and TORM charges no application fee. Philippine cadets are selected from recognised colleges; email asks whether PNTC graduates qualify. |
 | 2026-10-13 | Elwin Crew Management | crew@elwin.com.ph | elwin.com.ph cadetship page | Site states it collects no processing or placement fee. Email asks about cadet allowance. DMW licence not yet verified. |
+| 2026-10-13 | Avior Marine Inc., manning agent for Anthony Veder | recruitment@aviormarine.com | website.aviormarine.com footer, labelled "Jobs" | Site describes a cadet-to-officer development programme. Says DMW-licensed; number not shown. |
+| 2026-10-13 | Epsilon Maritime Services and KJCM Maritime, Epsilon group | recruitment@epsilonmaritime.com.ph, recruitment@kjcm.com.ph | epsilonhellas.com/locations/the-philippines | Group careers form lists Deck Cadet. One email to both offices. Also fill in the online form at epsilonhellas.com/careers-at-sea. |
+| 2026-10-13 | Seacrest Maritime Management | recruitment@seacrestmaritime.com | seacrestmaritime.com/contact-us, labelled "For Crew Recruitment" | Applicant portal lists Deck Cadet. Also register at application.seacrestmaritime.com. |
+| 2026-10-13 | Senator Crewing (Manila), Columbia Group | SCM@SCM.COM.PH | senatorcrewing.com/contact-us | Site welcomes cadets; cargo crew form lists Deck Cadet. Also fill in /crew-application-cargo/. |
+| 2026-10-13 | Fleet Management Philippines | fleet-ph-manning@fleetship.com | fleetship.com/contact, labelled "Training & Crew recruitment" | Long shot. Published cadet scheme is India-only; email asks whether Philippine graduates qualify. |
+| 2026-10-13 | Synergy Marine Group | iliketobe@synergymanning.com | synergymarinegroup.com/careers/onboard, "Email your CV to" | Long shot. States it charges seafarers no fee. Cadet entry test is India-centred. |
 
 ## Leads to follow up (no email sent)
 
@@ -21,9 +27,17 @@ against the source file before sending.
 | Marlow Navigation | Online form and open cadet exams in the Philippines | Pay and fee terms not stated online. |
 | Magsaysay Maritime | magsaysaycareers.com portal | Official application email not confirmed. |
 | CSL Group, a Canadian shipowner, through Jebsen PTC Maritime | Jebsen PTC online portal or office visit in Makati, Cebu or Iloilo; contact form subject "Sea-based application" | CSL sponsors Filipino cadets for the 12-month sea phase on its European fleet. Jebsen PTC licence DMW-167-SB-09162024-PA-MLC; states no fees. No public email. |
+| OSM Thome | Online ad "Deck Cadet, Car Carrier" at jobs.osmthome.com/jobs/12361 | Best-matched open ad: accepts graduates of a maritime academy, deck department. States it never asks for payment. Portal only. |
+| PTC, Philippine Transmarine Carriers | vinta.ptc.com.ph portal | FAQ says it takes cadets, subject to programme capacity. May overlap with Jebsen PTC. |
+| V.Group / V.Ships | Jobs portal only | Cadet age 18 to 24; prefers partner-school students; fourth-year case by case. |
+| Technomar Crew Management | "Send Your Resume" form at technomar.com.ph/apply-now | Form lists Deck Cadet for Technomar Shipping and Eurobulk. |
+| Crossworld Marine | Online form at crossworldmarine.com/career | Form lists Deck Cadet. Only a general email is published. |
+| Wallem Maritime Services | Online portal; crewing@wallem.com | Licence DMW-001-SB-08302023-PA-MLC. Cadet intake not confirmed. |
 | PNTC training office | In person | Ask which companies place PNTC cadets now. |
 
 ## Not suitable
+- C.F. Sharp Crew and Scanmar: require prior sea experience.
+- Bernhard Schulte and Odfjell: cadets come only through partner schools or scholarships.
 - Anglo-Eastern Philippines Ship Cadet Programme: age limit under 23.
 - NSA, Teekay, NYK-TDG, MOL Magsaysay, K Line: scholarships for incoming students, not graduates.
 
