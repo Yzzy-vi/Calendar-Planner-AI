@@ -35,6 +35,7 @@ positions that offer **paid onboard training**.
 | `build_fillable_pdf.py` | Builds a one-page fillable PDF draft (`python3 resume/build_fillable_pdf.py`). Blank details become editable form fields. Only needed while details are missing; its output is never attached. |
 | `Joseph_Mmanuel_Castillo_Resume.docx` | Editable Word résumé (complete). |
 | `Joseph_Mmanuel_Castillo_Resume.pdf` | Final PDF résumé exported from the Word file. **This is the file to attach.** |
+| `APPLICATION_LOG.md` | Applications sent, leads to follow up, and screening notes. |
 
 ## Rebuilding after a change
 ```bash
