@@ -1,0 +1,35 @@
+{
+  "name": "JOSEPH MMANUEL CASTILLO",
+  "headline": "Deck Cadet  |  Deck Trainee  |  Apprentice Mate",
+  "email": "filemy77@gmail.com",
+  "contact_fields": {
+    "phone": {"label": "Phone", "placeholder": "[Phone number incl. country code]"},
+    "location": {"label": "Location", "placeholder": "[City, Country]"}
+  },
+  "profile": "Completed the academic requirements of the Bachelor of Science in Marine Transportation (BSMT) program at PNTC. Seeking a first shipboard placement to complete the required 12 months of approved onboard training. First-time cadet available for international Deck Cadet, Deck Trainee or Apprentice Mate positions that offer paid onboard training.",
+  "education": {
+    "institution": "PNTC",
+    "degree": "Bachelor of Science in Marine Transportation (BSMT)",
+    "completion_label": "Academic studies completed",
+    "completion_placeholder": "[Month Year]",
+    "notes": [
+      "Academic coursework completed.",
+      "Remaining program requirement: 12 months of approved onboard training."
+    ]
+  },
+  "training_documents": [
+    "Training certificates: awaiting release. Certificate details will be added upon issuance.",
+    "Seaman's Book (SIRB): application to follow once the required certificates are available."
+  ],
+  "sea_service": [
+    "No prior sea service. First-time cadet seeking an initial shipboard placement for the 12-month approved onboard training period."
+  ],
+  "personal_fields": [
+    {"key": "nationality", "label": "Nationality", "placeholder": "[Nationality]"},
+    {"key": "date_of_birth", "label": "Date of birth", "placeholder": "[DD Month YYYY]"},
+    {"key": "passport", "label": "Passport", "placeholder": "[Held / Not yet held; validity]"},
+    {"key": "languages", "label": "Languages", "placeholder": "[Languages spoken]"},
+    {"key": "availability", "label": "Available from", "placeholder": "[Date available to join]"}
+  ],
+  "footer": "Supporting documents will be provided as they are released."
+}
