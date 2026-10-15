@@ -18,6 +18,13 @@ against the source file before sending.
 | 2026-10-13 | Senator Crewing (Manila), Columbia Group | SCM@SCM.COM.PH | senatorcrewing.com/contact-us | Site welcomes cadets; cargo crew form lists Deck Cadet. Also fill in /crew-application-cargo/. |
 | 2026-10-13 | Fleet Management Philippines | fleet-ph-manning@fleetship.com | fleetship.com/contact, labelled "Training & Crew recruitment" | Long shot. Published cadet scheme is India-only; email asks whether Philippine graduates qualify. |
 | 2026-10-13 | Synergy Marine Group | iliketobe@synergymanning.com | synergymarinegroup.com/careers/onboard, "Email your CV to" | Long shot. States it charges seafarers no fee. Cadet entry test is India-centred. |
+| 2026-10-15 | StarOcean Manning Philippines, Star Bulk's agency | recruitment@starocean.com.ph | starocean.com.ph/contact.php, "Careers & Recruitment" | Online form lists Deck Cadet. Licence DMW-162-SB-08222024-R-MLC. Also fill in starocean.com.ph/apply-online.php. |
+| 2026-10-15 | Zodiac Maritime and Navilands Marine | zodiac@manning.navilands.com, careers@navilands.com | zodiac-maritime.com/careers/manning and navilands.com/careers | Zodiac's International Cadets programme asks for a CV via the local manning office. Navilands runs a Cadet Development Program. One email to both. |
+| 2026-10-15 | Augustea Ship Manning Philippines | manning.ship@aspi.ph | aspi.ph/contact-us | General address. Site has a Filipino Cadetship Program. Licence DMW-068-SB-12212023-R-MLC. |
+| 2026-10-15 | Pacific Basin, PB Maritime Personnel | pbcrewing.philippines@pacificbasin.com | pacificbasin.com/en/careers/seajobs.php | Trains officer cadets in the Philippines since 2010. Also submit the online form on that page. |
+| 2026-10-15 | Unlad Ship Manning | unlad@unlad.ph | unlad.ph FAQ | Cadetship Program for maritime graduates. States no placement or processing fees. Also use the Careers form. |
+| 2026-10-15 | Capital Shipmanning Phils. | recruitment@capitalphils.com | capitalshipmanning.ph/contact | Enquiry only; cadet intake unconfirmed. Licence DMW-216-SB-02062025-R-MLC. |
+| 2026-10-15 | Diamond-H Marine Services | info@dhshipping.com | dhshipping.com | Enquiry only; current vacancy is Engine Cadet. States no fees charged. Licence as typed on site: DMW-147-SB-08122A24-R-MLC. |
 
 ## Leads to follow up (no email sent)
 
@@ -33,9 +40,13 @@ against the source file before sending.
 | Technomar Crew Management | "Send Your Resume" form at technomar.com.ph/apply-now | Form lists Deck Cadet for Technomar Shipping and Eurobulk. |
 | Crossworld Marine | Online form at crossworldmarine.com/career | Form lists Deck Cadet. Only a general email is published. |
 | Wallem Maritime Services | Online portal; crewing@wallem.com | Licence DMW-001-SB-08302023-PA-MLC. Cadet intake not confirmed. |
+| Bright Maritime Corp. | Online form at application.brightmaritime.com.ph | Form lists Deck Cadet, Jr and Sr. No Manila email published. |
+| Grieg Philippines | career.grieg.ph portal only | Welcomes fresh seafarers; states it never requires payment. |
 | PNTC training office | In person | Ask which companies place PNTC cadets now. |
 
 ## Not suitable
+- Orophil, Vega, Misuga, Seaspan, Klaveness: cadets only from their own schools, partner schools or scholarships.
+- Adamson and Veritas: require sea service, or have no cadet programme now.
 - C.F. Sharp Crew and Scanmar: require prior sea experience.
 - Bernhard Schulte and Odfjell: cadets come only through partner schools or scholarships.
 - Anglo-Eastern Philippines Ship Cadet Programme: age limit under 23.
